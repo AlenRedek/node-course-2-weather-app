@@ -1,4 +1,4 @@
-# node-course-2-weather-app
+# node-weather-app
 Simple command-line based weather app built on Node.js
 
 This code was developed for educational purposes only during Udemy online course, chapter 4 (https://www.udemy.com/the-complete-nodejs-developer-course-2).
