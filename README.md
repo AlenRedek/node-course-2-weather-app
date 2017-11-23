@@ -1,4 +1,4 @@
-# node-weather-app
+# Node.js CLI Weather App
 Simple command-line based weather app built on Node.js
 
 USAGE:
