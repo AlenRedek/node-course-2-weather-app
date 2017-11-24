@@ -1,5 +1,5 @@
 # Node.js CLI Weather App
-Simple command-line based weather app built on Node.js
+Simple command-line based weather app built on Node.js.
 
 USAGE:
 <ul>
